@@ -2,12 +2,12 @@
 A restaurant Management system Using python Data structures and OOPs concept. 
 
 1. Impletation of working and Management systems of a Restaurant which includes 
-Room booking 
-Room Service
-Check in and Check out
-Room Enquiry 
-Payement
-Customer records
+Room booking ,
+Room Service,
+Check in and Check out,
+Room Enquiry ,
+Payement,
+Customer records,
 Travel Enquiry
 
 2.Data Structures used:
