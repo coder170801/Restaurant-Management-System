@@ -19,6 +19,6 @@ Graphs
 3. Application of OOPs concept
 classes are used for every functions mentioned above. For each individual sepearate objects are created and stored.
 
-use of Python libraries such date time.
+Use of Python libraries such date time.
 
 
